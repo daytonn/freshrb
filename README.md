@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```sh
+freshrb myapp
+```
+
+This will create a Fresh.rb application in the current directory.
+
+## Features
+
+Fresh.rb does everything you could possibly imagine. All with simple ruby! Simply implement the feature you have in mind and BAM! Fresh.rb just hooked you up.
 
 ## Contributing
 
