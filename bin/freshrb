@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+require "fileutils"
+app_name = ARGV[0]
+FileUtils.mkdir(app_name)
+FileUtils.touch("#{app_name}/#{app_name}.rb")
+puts "create /#{app_name}"
+puts "create /#{app_name}/#{app_name}.rb"
+puts "Fresh.rb Application created... Happy Hacking"

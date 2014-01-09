@@ -1,6 +1,6 @@
-# Freshrb
+# Fresh.rb
 
-A Ruby Framework for the paranoid ruby developer who values configuration over convention.
+A Ruby application framework for the paranoid ruby developer who values configuration over convention.
 
 ## Installation
 

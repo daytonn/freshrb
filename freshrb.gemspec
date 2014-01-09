@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Freshrb::VERSION
   spec.authors       = ["Dayton Nolan"]
   spec.email         = ["daytonn@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A Ruby application framework.}
+  spec.description   = %q{A Ruby application framework for the paranoid ruby developer who values configuration over convention.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
