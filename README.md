@@ -4,17 +4,7 @@ A Ruby application framework for the paranoid ruby developer who values configur
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'freshrb'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install freshrb
+While tools like bundler greatly increase maintainability and developer convenience, it's Fresh.rb's philosophy that every decision should be left open to the developer. While you *may* install Fresh.rb with `gem install freshrb`, we recommend you download the tarball, inspect each line and then install the gem locally from source to ensure you agree with the code executed on your machine.
 
 ## Usage
 
